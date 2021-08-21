@@ -1,5 +1,8 @@
 <template>
-  <Tutorial/>
+  <section>
+    <Hero/>
+    <Tutorial/>
+  </section>
 </template>
 
 <script>
